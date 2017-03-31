@@ -1,4 +1,11 @@
 
 Hello everybody and welcome inside the wonderful land of IT (with food).
 
-the point of this website is to enable YOU to learn about IT while cooking and showing your [friends](https://www.youtube.com/watch?v=xHz54TQYTTQ) what a great developper you are
+The point of this website is to enable YOU to learn about IT while cooking, and therefore impress your <a href="https://www.youtube.com/watch?v=xHz54TQYTTQ" target="_blank">friends</a> with how much you know about IT.
+
+# Menu: what are you gonna learn?
+
+- Starters: Social networks
+- Main courses: Web browsers
+- Desserts: Operating systems
+- Drinks: Programming languages
