@@ -7,10 +7,10 @@ In this part, you'll learn about social networks. We guess that most of you know
 > The study of these structures uses social network analysis to identify local and global patterns, locate influential entities, and examine network dynamics. (Source: Wikipedia.org)
 
 There is a lot of them but we are gonna present only the biggest ones:
-* Facebook
-* Twitter
-* LinkedIn
-* Reddit
+* [Facebook](#Facebook)
+* [Twitter](#Twitter)
+* [LinkedIn](#LinkedIn)
+* [Reddit](#Reddit)
 
 ## Facebook
 
