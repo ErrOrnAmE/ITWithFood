@@ -19,3 +19,7 @@ Once again, we are gonna present only the biggest ones and a challenger:
 ## Safari
 
 ## Tor Browser
+
+
+<br/><br/>
+<span style="float:left">[< Previous (Web browsers)](../WebBrowsers)</span><span style="float:right">[(Operating systems) Next >](../OperatingSystems)</span>
