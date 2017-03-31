@@ -5,7 +5,7 @@ The point of this website is to enable YOU to learn about IT while cooking, and 
 
 # Menu: what are you gonna learn?
 
-- Starters: Social networks
+- Starters: [Social networks](SocialNetworks)
 - Main courses: Web browsers
 - Desserts: Operating systems
 - Drinks: Programming languages
