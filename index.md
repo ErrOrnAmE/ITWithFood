@@ -6,6 +6,6 @@ The point of this website is to enable YOU to learn about IT while cooking, and 
 # Menu: what are you gonna learn?
 
 - Starters: [Social networks](SocialNetworks)
-- Main courses: Web browsers
-- Desserts: Operating systems
-- Drinks: Programming languages
+- Main courses: [Web browsers](WebBrowsers)
+- Desserts: [Operating systems](OperatingSystems)
+- Drinks: [Programming languages](ProgrammingLanguages)
