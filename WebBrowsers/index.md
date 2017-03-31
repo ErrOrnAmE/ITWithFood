@@ -7,10 +7,10 @@ In this part, you'll learn about web browsers. We guess that most of you know wh
 > Hyperlinks present in resources enable users easily to navigate their browsers to related resources. (Source: Wikipedia)
 
 Once again, we are gonna present only the biggest ones and a challenger:
-* [Firefox](#Firefox)
-* [Chrome](#Chrome)
-* [Safari](#Safari)
-* [Tor Browser](#Tor-Browser)
+* [Firefox](#firefox)
+* [Chrome](#fhrome)
+* [Safari](#safari)
+* [Tor Browser](#tor-browser)
 
 ## Firefox
 
