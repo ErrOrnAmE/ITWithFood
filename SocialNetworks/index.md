@@ -23,4 +23,4 @@ There is a lot of them but we are gonna present only the biggest ones and a chal
 
 
 <br/><br/>
-<span style="float:left">[< Previous (Home)](../)</span><span style="float:right">[(Web Browsers) Next >](../WebBrowsers)</span>
+<span style="float:left">[< Previous (Home)](../)</span><span style="float:right">[(Web browsers) Next >](../WebBrowsers)</span>
