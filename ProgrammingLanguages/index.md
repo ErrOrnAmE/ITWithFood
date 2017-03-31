@@ -10,6 +10,8 @@ There is a lot of them but we are gonna present only the biggest ones and a chal
 * [C++](#c++)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Haskell](#haskell)
+* [Go](#go)
 
 ## C
 
@@ -19,6 +21,9 @@ There is a lot of them but we are gonna present only the biggest ones and a chal
 
 ## JavaScript
 
+## Haskell
+
+## Go
 
 
 <br/><br/>
