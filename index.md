@@ -11,4 +11,4 @@ The point of this website is to enable YOU to learn about IT while cooking, and 
 - Drinks: [Programming languages](ProgrammingLanguages)
 
 <br/><br/>
-<span style="float:right">[(Social networks) Next >](../SocialNetworks)</span>
+<span style="float:right">[(Social networks) Next >](SocialNetworks)</span>
