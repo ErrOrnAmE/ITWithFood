@@ -22,4 +22,4 @@ Once again, we are gonna present only the biggest ones and a challenger:
 
 
 <br/><br/>
-<span style="float:left">[< Previous (Web browsers)](../WebBrowsers)</span><span style="float:right">[(Operating systems) Next >](../OperatingSystems)</span>
+<span style="float:left">[< Previous (Social networks)](../SocialNetworks)</span><span style="float:right">[(Operating systems) Next >](../OperatingSystems)</span>
