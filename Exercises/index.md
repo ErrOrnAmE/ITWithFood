@@ -8,7 +8,11 @@ In this part, you'll be able to check if our MOOC was effective by answering the
 
 ## Operating systems
 
-* Which is the commun point between macOS and Linux?
+* Which kind of people are using macOS?
+
+* What is the man reason to use Linux?
+
+* Which is the common point between macOS and Linux?
 
 * For which reason is Windows the mostly used OS?
 
