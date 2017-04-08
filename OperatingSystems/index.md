@@ -50,6 +50,6 @@ Even if they seem to be different, Linux and macOS are made out of the same wood
 ## Android
 
 
-<span style="float:right">_Written by Antoine & Maël._</span>
+<span style="float:right">_- Written by Antoine & Maël._</span>
 <br/><br/>
 <span style="float:left">[< Previous (Web browsers)](../WebBrowsers)</span><span style="float:right">[(Programming languages) Next >](../ProgrammingLanguages)</span>
