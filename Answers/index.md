@@ -1,8 +1,6 @@
 # Answers
 
-## Social Networks
-
-### Which social network is used to skill promotion and job research?
+### Which social network is used to develop your professional network and research jobs ?
 
 _LinkedIn._
 
@@ -12,7 +10,7 @@ _140 characters and not one more._
 
 ### What's the risk with going through Reddit ?
 
-_You can both find good and bad things._
+_You can find both good and bad things._
 
 ## Web browsers
 
@@ -20,25 +18,25 @@ _You can both find good and bad things._
 
 ### Which kind of people are generally using macOS?
 
-_Artists thanks to softwares delivered by Apple._
+_Artists thanks to softwares provided by Apple._
 
 ### What is the main reason to use Linux?
 
-_It gives you a absolute control on what you do._
+_It gives you an absolute control on what you do._
 
-### Which is the common point between macOS and Linux?
+### What do macOS and Linux have in common?
 
 _They are both part of the UNIX family._
 
-### For which reason is Windows the mostly used OS?
+### Why is Windows the most used OS?
 
-_Because it is pre-installed on most of the computer._
+_Because it is pre-installed on most computers._
 
 ## Programming languages
 
-### Which is the mostly used language?
+### Which language is the most used?
 
-_At this time, Java is still the mostly used language, C and C++ following._
+_At this time, Java is still the most used language, C and C++ following._
 
 ### Why is C not as trendy as it used to be?
 
