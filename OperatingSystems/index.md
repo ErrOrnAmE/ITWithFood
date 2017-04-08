@@ -24,7 +24,11 @@ There is one main reason: Windows is pre-installed in the most part of computers
 
 ## macOS
 
+Moving on to an other OS used by many people: macOS. We see this OS like a rainbow cake as it is fancy and shinny. The fact is that it is actually a great OS for every kind of users and this because it is really simple to use and you can do almost what you want with it. This OS is mostly used by artists because macOS, and Apple by the way, delivered a lot of programs in this way.
 
+#### "Is this too expensive to buy a mac regarding the quality?"
+
+Of course the answer is yes, and not because you're paying a big part of the price just to have an bitten apple on your computer. My main argument is: it does not worth it. You can have equivalent performances with a very lower price. But against, macOS is a great OS, if you want to create artistic content like music or just want to have a beautiful interface and can afford it, go ahead you won't be disapointed.
 
 ## Linux
 
