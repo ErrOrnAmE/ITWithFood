@@ -1,4 +1,3 @@
-<head><title>IT with Food</title></head>
 Hello everybody and welcome inside the wonderful land of IT (with food).
 
 The point of this website is to allow YOU to learn about IT while cooking, and therefore impress your <a href="https://www.youtube.com/watch?v=xHz54TQYTTQ" target="_blank">friends</a> with how much you know about IT.
