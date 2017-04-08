@@ -4,7 +4,7 @@ In this part, you'll be able to check if our MOOC was effective by answering the
 
 ## Social Networks
 
-* Which social network is used to skill promotion and job research?
+* Which social network is used to develop your professional network and research jobs ?
 
 * How much much characters can you _tweet_ ?
 
@@ -18,13 +18,13 @@ In this part, you'll be able to check if our MOOC was effective by answering the
 
 * What is the main reason to use Linux?
 
-* Which is the common point between macOS and Linux?
+* What do macOS and Linux have in common?
 
-* For which reason is Windows the mostly used OS?
+* For which reason is Windows the most used OS?
 
 ## Programming languages
 
-* Which is the mostly used language?
+* Which language is the most used ?
 
 * Why is C not as trendy as it used to be?
 
