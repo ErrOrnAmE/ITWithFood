@@ -1,11 +1,11 @@
 # Programming Languages
 
-In this part, you'll learn about programming languages. We guess that most of you know what is a programming languages but here's a explanation from a very know and serious web encyclopedia.
+In this part, you will learn about programming languages. Some of you may not know what a programming languages is, so once again we went to our favorite collaborative encyclopedia.
 
 > A programming language is a formal computer language designed to communicate instructions to a machine, particularly a computer.
 > Programming languages can be used to create programs to control the behavior of a machine or to express algorithms. (Source: Wikipedia.org)
 
-There is a lot of them but we are gonna present only the biggest ones:
+The website <a href="http://www.99-bottles-of-beer.net">99 Bottles of Beer</a> indexes source code for a small program that has been written in 1500 programming languages. We can't talk about all of them so we will focus on six major ones :
 * C
 * C++
 * Java
