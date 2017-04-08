@@ -12,7 +12,7 @@ There is a lot of them but we are gonna present only the biggest ones and a chal
 * LinkedIn
 * Reddit
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AHA6be-xaVA" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/AHA6be-xaVA" frameborder="0" allowfullscreen></iframe></center>
 
 <br/><br/>
 <span style="float:left">[< Previous (Home)](../)</span><span style="float:right">[(Web browsers) Next >](../WebBrowsers)</span>
