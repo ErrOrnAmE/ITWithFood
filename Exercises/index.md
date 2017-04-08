@@ -12,6 +12,12 @@ In this part, you'll be able to check if our MOOC was effective by answering the
 
 ## Web browsers
 
+* What feature of Firefox do tech-savvy people especially like ?
+
+* Which web browser is currently the most used ?
+
+* What makes TOR Browser different from the other ?
+
 ## Operating systems
 
 * Which kind of people are generally using macOS?
