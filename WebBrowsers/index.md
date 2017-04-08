@@ -16,7 +16,7 @@ Once again, we are gonna present only the biggest ones and a challenger:
 
 ![Firefox](img/IMG_0118.JPG)
 
-Firefox is the web browser developped by The ~~Mozzarella~~ Mozilla Fondation, a non-profit organization supporting the free and open-source Software. Firefox was best known for being the principal opponent to Internet Explorer in the battle of the browsers. More up-to-date, secure and open-source, it was long leading the race, and appealed to a large portion of the "tech people" as it allowed anyone to add and create extensions: small piece of software that enhanced the browser.
+Firefox is the web browser developped by The ~~Mozzarella~~ Mozilla Fondation, a non-profit organization supporting free and open-source Software. Firefox was best known for being the principal opponent to Internet Explorer in the battle of the browsers. More up-to-date, secure and open-source, it was long leading the race, and appealed to a large portion of the "tech people" as it allowed anyone to add and create extensions: small piece of software that enhanced the browser.
 
 However, as Firefox was ahead under the clear sky, a new opponent entered the race...
 
@@ -30,7 +30,7 @@ As of today, Chrome is at [a high standing 62% market share](http://gs.statcount
 
 ![Safari](img/IMG_0117.JPG)
 
-Apple is known for developping software tailored for their products. Safari is their Web Browser and even if we are Apple fan boys, we CANNOT approve of this piece of software. Safari is years late for HTML5 and ES2016 compliance and security updates. Moreover, it does not have any original features compared to Firefox or Chrome. We just use it to install an other web browser.
+Apple is known for developping software tailored for their products. Safari is their Web Browser and even if we are Apple fan boys, we CANNOT approve this piece of software. Safari is years late for HTML5 and ES2016 compliance and security updates. Moreover, it does not have any original features compared to Firefox or Chrome. We just use it to install an other web browser (Much like Internet Explorer in its days).
 
 ## Tor Browser
 
