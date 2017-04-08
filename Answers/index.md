@@ -8,7 +8,7 @@
 
 ### Which kind of people are generally using macOS?
 
-_Artists are the kind of people which use macOS in general._
+_Artists thanks to softwares delivered by Apple._
 
 ### What is the man reason to use Linux?
 
@@ -25,4 +25,4 @@ _Because it is pre-installed on most of the computer._
 ## Programming languages
 
 <br/><br>
-<span style="float:left">[< Previous (Programming languages)](../ProgrammingLanguages)</span><span style="float:right">[(Answers) Next >](../Answers)</span>
+<span style="float:left">[< Previous (Exercises)](../Exercises)</span>
