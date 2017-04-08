@@ -13,7 +13,7 @@ There is a lot of them but we are gonna present only the biggest ones:
 * Haskell
 * Go
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/S3nWfuoy-vw" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=bUYz4RDIj2w" frameborder="0" allowfullscreen></iframe></center>
 
 <br/><br/>
 <span style="float:left">[< Previous (Operating systems)](../OperatingSystems)</span><span style="float:right">[(Exercises) Next >](../Exercises)</span>
