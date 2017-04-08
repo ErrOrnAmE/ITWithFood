@@ -22,7 +22,7 @@ _You can both find good and bad things._
 
 _Artists thanks to softwares delivered by Apple._
 
-### What is the man reason to use Linux?
+### What is the main reason to use Linux?
 
 _It gives you a absolute control on what you do._
 
