@@ -16,7 +16,7 @@ In this part, you'll be able to check if our MOOC was effective by answering the
 
 * Which web browser is currently the most used ?
 
-* What makes TOR Browser different from the other ?
+* What makes TOR Browser different from the others ?
 
 ## Operating systems
 
