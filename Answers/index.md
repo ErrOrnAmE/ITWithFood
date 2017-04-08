@@ -1,5 +1,7 @@
 # Answers
 
+## Social Networks 
+
 ### Which social network is used to develop your professional network and research jobs ?
 
 _LinkedIn._
@@ -13,6 +15,18 @@ _140 characters and not one more._
 _You can find both good and bad things._
 
 ## Web browsers
+
+### What feature of Firefox do tech-savvy people especially like ?
+
+_The ability to install many add-ons!_
+
+### Which web browser is currently the most used ?
+
+_With 62% of the market, Google Chrome is currently the leader of the web browsers._
+
+### What makes TOR Browser different from the other ?
+
+_TOR does everything it can to protect you from anyone that would want to spy on you._
 
 ## Operating systems
 
