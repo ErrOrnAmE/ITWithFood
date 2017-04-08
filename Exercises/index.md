@@ -14,3 +14,5 @@ In this part, you'll be able to check if our MOOC was effective by answering the
 
 ## Programming languages
 
+<br/><br>
+<span style="float:left">[< Previous (Programming languages)](../ProgrammingLanguages)</span><span style="float:right">[(Answers) Next >](../Answers)</span>
