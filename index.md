@@ -4,6 +4,8 @@ The point of this website is to allow YOU to learn about IT while cooking, and t
 
 # Menu: what are you gonna learn?
 
+We want you to feel safe during this cooking lesson, so we are going to start with things you may know and progressively go into uncharted waters.
+
 - Starters: [Social networks](SocialNetworks)
 - Main courses: [Web browsers](WebBrowsers)
 - Desserts: [Operating systems](OperatingSystems)
