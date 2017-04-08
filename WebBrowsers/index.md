@@ -24,14 +24,17 @@ However, as Firefox was ahead under the clear sky, a new opponent entered the ra
 
 ![Chrome](img/IMG_0116.JPG)
 
+As of today, Chrome is at [a high standing 62% market share](http://gs.statcounter.com/browser-market-share/desktop/worldwide), leading ahead of Firefox and Internet Explorer, respectively 15 and 9%. In 2008, Google unveiled what was going to be their first offline product: a web browser that was gonna disrupt the market. Fast forward to our year, Chrome is starting to be known for an other of its particularities: its incredibly high need of computer ressources. Let's try that: Statistically speaking, there are 62% chances that you are currently using Google Chrome to read this. If that is so: open your Ressource Manager (CTRL+ALT+SUPPR on Windows or Spotlight > Activity Manager on MacOS) and watch how much of your CPU is used by Google Chrome. Frightening, right?
+
 ## Safari
 
 ![Safari](img/IMG_0117.JPG)
 
+Apple is known for developping software tailored for their products. Safari is their Web Browser and even if we are Apple fan boys, we CANNOT approve of this piece of software. Safari is years late for HTML5 and ES2016 compliance and security updates. Moreover, it does not have any original features compared to Firefox or Chrome. We just use it to install an other web browser.
+
 ## Tor Browser
 
 ![Tor Browser](img/IMG_0119.JPG)
-
 
 <br/><br/>
 <span style="float:left">[< Previous (Social networks)](../SocialNetworks)</span><span style="float:right">[(Operating systems) Next >](../OperatingSystems)</span>
