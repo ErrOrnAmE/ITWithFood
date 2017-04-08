@@ -14,11 +14,23 @@ Once again, we are gonna present only the biggest ones and a challenger:
 
 ## Firefox
 
+![Firefox](img/IMG_0118.JPG)
+
+Firefox is the web browser developped by The ~~Mozzarella~~ Mozilla Fondation, a non-profit organization supporting the free and open-source Software. Firefox was best known for being the principal opponent to Internet Explorer in the battle of the browsers. More up-to-date, secure and open-source, it was long leading the race, and appealed to a large portion of the "tech people" as it allowed anyone to add and create extensions: small piece of software that enhanced the browser.
+
+However, as Firefox was ahead under the clear sky, a new opponent entered the race...
+
 ## Chrome
+
+![Chrome](img/IMG_0116.JPG)
 
 ## Safari
 
+![Safari](img/IMG_0117.JPG)
+
 ## Tor Browser
+
+![Tor Browser](img/IMG_0119.JPG)
 
 
 <br/><br/>
