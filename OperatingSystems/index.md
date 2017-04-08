@@ -1,25 +1,34 @@
 # Operating systems
 
-In this part, you'll learn about operating systems. We guess that most of you know what is a operating systems but here's a explanation from a very know and serious web encyclopedia.
+In this part, you'll learn about operating systems. Maybe you don't know at all what is an operating system so let's begin with a little definition.
 
-> An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs.
-> All computer programs, excluding firmware, require an operating system to function.
-> Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources. (Source: Wikipedia.org)
+> An operating system (OS) is a software that manages computer's hardware and software resources and provides common services for computer's programs. (Source: Wikipedia.org)
 
-There is a lot of them but we are gonna present only the biggest ones and a challenger:
+Now, there is, of course, a lot of different OS so we're just gonna talk about the mostly used :
 * [Windows](#windows)
 * [macOS](#macos)
 * [Linux](#linux)
+
+And because your smartphone is also a computer, we're also gonna talk about the two main phone's OS :
+
 * [iOS](#ios)
 * [Android](#android)
 
 ## Windows
 
+
+
 ## macOS
+
+
 
 ## Linux
 
+
+
 ## iOS
+
+
 
 ## Android
 
