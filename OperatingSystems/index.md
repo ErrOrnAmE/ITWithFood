@@ -41,7 +41,7 @@ They seem to be complicated because they are mainly used by programmers and othe
 
 ### Family relationship between Linux and macOS
 
-Even if they seem to be different, Linux and macOS are made out of the same wood! Indeed, they are both based on the same kernel.
+Even if they seem to be different, Linux and macOS are made out of the same wood! Indeed, they are both based on the same system: UNIX. UNIX now defines a family of OS following the same rules.
 
 ## iOS
 
