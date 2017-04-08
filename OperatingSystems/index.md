@@ -9,10 +9,6 @@ Now, there is, of course, a lot of different OS so we're just gonna talk about t
 * [macOS](#macos)
 * [Linux](#linux)
 
-And because your smartphone is also a computer, we're also gonna talk about the two main mobile OS:
-
-* [iOS](#ios)
-* [Android](#android)
 
 ## Windows
 
@@ -42,13 +38,6 @@ They seem to be complicated because they are mainly used by programmers and othe
 ### Family relationship between Linux and macOS
 
 Even if they seem to be different, Linux and macOS are made out of the same wood! Indeed, they are both based on the same core: UNIX. UNIX now defines a family of OS following the same rules.
-
-## iOS
-
-
-
-## Android
-
 
 <span style="float:right">_- Written by Antoine & Maël._</span>
 <br/><br/>
