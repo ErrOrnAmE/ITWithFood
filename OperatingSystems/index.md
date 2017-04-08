@@ -32,7 +32,16 @@ Of course the answer is yes, and not because you're paying a big part of the pri
 
 ## Linux
 
+Linux (or GNU/Linux) is not an OS by itself but rather a line of OS, indeed there is a lot of projects called, _distributions_, which refer to it. Getting onto a Linux computer is liking going on with a recipe which has blanks and a small parts of the ingredients. You have to do almost everything yourself!
 
+#### "Why using Linux OS if they are so complicated?"
+
+First of all they are not as complicated as they seem to be, Linux distributions are most of the time _user-friendly_ and allow you to do basic stuff just with your mouse through a graphic interface.
+They seem to be complicated because they are mainly used by programmers and other IT professionnals and the kind of work they do needs to be done through a _command line interface_. The reason why you should use Linux computers is that it gives you a absolute control of what you're doing.
+
+### Family relationship between Linux and macOS
+
+Even if they seem to be different, Linux and macOS are made out of the same wood! Indeed, they are both based on the same kernel.
 
 ## iOS
 
@@ -41,6 +50,6 @@ Of course the answer is yes, and not because you're paying a big part of the pri
 ## Android
 
 
-
+<span style="float:right">_Written by Antoine & Maël._</span>
 <br/><br/>
 <span style="float:left">[< Previous (Web browsers)](../WebBrowsers)</span><span style="float:right">[(Programming languages) Next >](../ProgrammingLanguages)</span>
